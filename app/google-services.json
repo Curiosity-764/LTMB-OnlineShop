@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833098253909",
+    "project_id": "onlineshop-ltmb",
+    "storage_bucket": "onlineshop-ltmb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833098253909:android:7593152e0bc8c21980f6dc",
+        "android_client_info": {
+          "package_name": "com.example.ltmb_onlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFW5d0lKxsNp3dJ3jOFZ7XTEQr2mdPUq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
